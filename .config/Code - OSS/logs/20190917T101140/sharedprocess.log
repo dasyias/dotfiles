@@ -1,0 +1,14 @@
+[2019-09-17 10:11:44.020] [sharedprocess] [info] main {"machineId":"85436d6f652ec4b913a1722b5fe88bc4ef986f034af17e4f67c0e0e279d41ece"}
+[2019-09-17 10:12:24.016] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-09-17 10:17:26.913] [sharedprocess] [info] Installing extension: ms-python.python
+[2019-09-17 10:17:27.932] [sharedprocess] [info] Downloaded extension: ms-python.python /tmp/689e3da7-435b-47d3-8cb1-e659e6d16eb3
+[2019-09-17 10:17:30.633] [sharedprocess] [info] Extracted extension to /home/dasyias/.vscode-oss/extensions/.ms-python.python-2019.9.34911: ms-python.python
+[2019-09-17 10:17:30.633] [sharedprocess] [info] Renamed to /home/dasyias/.vscode-oss/extensions/ms-python.python-2019.9.34911
+[2019-09-17 10:17:30.643] [sharedprocess] [info] Installation completed. ms-python.python
+[2019-09-17 10:17:30.658] [sharedprocess] [info] Extensions installed successfully: ms-python.python
+[2019-09-17 10:17:50.545] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2019-09-17 10:17:50.786] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools /tmp/65942a86-dd9f-4d0d-8fcb-a39ef6d4ad40
+[2019-09-17 10:17:51.759] [sharedprocess] [info] Extracted extension to /home/dasyias/.vscode-oss/extensions/.ms-vscode.cpptools-0.25.1: ms-vscode.cpptools
+[2019-09-17 10:17:51.759] [sharedprocess] [info] Renamed to /home/dasyias/.vscode-oss/extensions/ms-vscode.cpptools-0.25.1
+[2019-09-17 10:17:51.762] [sharedprocess] [info] Installation completed. ms-vscode.cpptools
+[2019-09-17 10:17:51.776] [sharedprocess] [info] Extensions installed successfully: ms-vscode.cpptools

@@ -1,0 +1,12 @@
+add Music
+q
+clear
+add ~/Music
+load ~/Music
+load ~/dasyias/Music
+qexit
+a ~/Music
+pause
+c
+save
+Q

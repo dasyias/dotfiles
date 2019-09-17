@@ -1,0 +1,4 @@
+mpris_enabled: true
+persist_queue: true
+reverse_scrolling: false
+video: true
